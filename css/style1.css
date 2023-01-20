@@ -1,0 +1,21 @@
+
+a {
+    color: rebeccapurple;
+    text-decoration: solid;
+    text-shadow: 5em;
+}
+
+a:hover {
+    text-decoration: underline;
+
+}
+h1, h2, h3 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 100px;
+}
+
+.contact_form{
+    background: #ffa;
+    background: url()
+}
